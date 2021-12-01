@@ -30,6 +30,13 @@ A partir da pasta principal do repo local **Implementação BarChart** faça:
 cmake -S source -B build
 cmake --build build
 ```
+ou (se não der certo)
+
+```
+cmake -S source -B build
+cd build
+make
+```
 
 ## Usando compilação manual com g++
 
