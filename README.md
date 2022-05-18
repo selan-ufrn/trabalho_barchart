@@ -12,8 +12,10 @@ A vantagem desse novo esquema organizacional, separando a descrição do projeto
 1. Clone o repositório [**Descrição BarChart**](https://github.com/selan-ufrn/projeto_barchart) na sua máquina.
 2. Clone o repositório **Implementação BarChart** (este repo) na sua máquina.
 3. Clone o repositório [**BarChart Dataset**](https://github.com/selan-ufrn/projeto_barchar_dataset) com os datasets na sua máquina.
-4. Copie o código de suporte (pastas `source` e `data`)  do repo local **Descrição BarChart** para a raiz do repo local **Implementação BarChart**.
+4. Copie o código de suporte (pasta `source`)  do repo local **Descrição BarChart** para a raiz do repo local **Implementação BarChart**.
 5. Quando finalizar (ou se quiser tirar uma dúvida) _"comite"_ e atualize o repositório local **Implementação BarChart**.
+
+**ATENÇÃO**: Não copie a pasta `data` (com os datasets) no repositório final do trabalho, pois essa pasta contém arquivos com grande tamanho. Eu não preciso baixar esses arquivos porque eu já os tenho na minha máquina.
 
 Pronto, agora você pode fazer _pull request_ em `feedback` ou abrir alguma _issue_, casa queira tirar dúvidas sobre o projeto.
 
