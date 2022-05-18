@@ -15,11 +15,11 @@ A vantagem desse novo esquema organizacional, separando a descrição do projeto
 4. Copie o código de suporte (pasta `source`)  do repo local **Descrição BarChart** para a raiz do repo local **Implementação BarChart**.
 5. Quando finalizar (ou se quiser tirar uma dúvida) _"comite"_ e atualize o repositório local **Implementação BarChart**.
 
-**ATENÇÃO**: Não copie a pasta `data` (com os datasets) no repositório final do trabalho, pois essa pasta contém arquivos com grande tamanho. Eu não preciso baixar esses arquivos porque eu já os tenho na minha máquina.
-
 Pronto, agora você pode fazer _pull request_ em `feedback` ou abrir alguma _issue_, casa queira tirar dúvidas sobre o projeto.
 
 Ao final desse processo, a implementação completa do projeto terão sido "_comitadas_" para o repo **Implementação BarChart** no GHC. Esse é o repo com seu trabalho que será baixado para avaliação.
+
+**ATENÇÃO**: Não copie a pasta `data` (com os datasets) no repositório final do trabalho, pois essa pasta contém arquivos com grande tamanho. Eu não preciso baixar esses arquivos porque eu já os tenho na minha máquina.
 
 ## Compilando o Código de Suporte
 
