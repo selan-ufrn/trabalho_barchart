@@ -9,10 +9,11 @@ Nesse documento vamos chamar este repositório (derivado do GHC) de repositório
 
 A vantagem desse novo esquema organizacional, separando a descrição do projeto da implementação, é que se for necessário atualizar algo na descrição eu o farei _uma vez_ no repositório **Descrição BarChart** e vocês simplesmente baixam a nova atualização com comandos simples como `git pull`. Para continuarmos a nos beneficiar do sistema de acompanhamento de código e troca de mensagens via _pull request_ com o _branch_ `feedback` ou via a criação de _issues_, você continuará a trabalhar no repositório **Implementação BarChart** que é monitorado pelo GHC. Portanto o procedimento (de integração) a ser seguido é o seguinte:
 
-1. Clone o repositório **Descrição BarChart** na sua máquina.
+1. Clone o repositório [**Descrição BarChart**](https://github.com/selan-ufrn/projeto_barchart) na sua máquina.
 2. Clone o repositório **Implementação BarChart** (este repo) na sua máquina.
-3. Copie o código de suporte (pastas `source` e `data`)  do repo local **Descrição BarChart** para a raiz do repo local **Implementação BarChart**.
-3. Quando finalizar (ou se quiser tirar uma dúvida) _"comite"_ e atualize o repositório local **Implementação BarChart**.
+3. Clone o repositório [**BarChart Dataset**](https://github.com/selan-ufrn/projeto_barchar_dataset) com os datasets na sua máquina.
+4. Copie o código de suporte (pastas `source` e `data`)  do repo local **Descrição BarChart** para a raiz do repo local **Implementação BarChart**.
+5. Quando finalizar (ou se quiser tirar uma dúvida) _"comite"_ e atualize o repositório local **Implementação BarChart**.
 
 Pronto, agora você pode fazer _pull request_ em `feedback` ou abrir alguma _issue_, casa queira tirar dúvidas sobre o projeto.
 
