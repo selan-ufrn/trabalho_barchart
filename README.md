@@ -19,11 +19,11 @@ Pronto, agora você pode fazer _pull request_ em `feedback` ou abrir alguma _iss
 
 Ao final desse processo, a implementação completa do projeto terão sido "_comitadas_" para o repo **Implementação BarChart** no GHC. Esse é o repo com seu trabalho que será baixado para avaliação.
 
-**ATENÇÃO**: Não copie a pasta `data` (com os datasets) no repositório final do trabalho, pois essa pasta contém arquivos com grande tamanho. Eu não preciso baixar esses arquivos porque eu já os tenho na minha máquina.
+**ATENÇÃO**: Não copie a pasta `data` (com os datasets) no repositório final do trabalho, pois essa pasta contém arquivos com alguns megas de tamanho. Eu não preciso baixar esses arquivos porque eu já os tenho na minha máquina.
 
 ## Compilando o Código de Suporte
 
-Primeiramente, certifique-se de ter copiado o código de suporte (`data` e `source`) do repo local **Descrição BarChart** para a raiz do repo local **Implementação BarChart**. Feito isso, para compilar e executar, é só seguir as instruções abaixo.
+Primeiramente, certifique-se de ter copiado o código de suporte (`source`) do repo local **Descrição BarChart** para a raiz do repo local **Implementação BarChart**. Feito isso, para compilar e executar, é só seguir as instruções abaixo.
 
 ## Usando `cmake`
 
@@ -57,3 +57,5 @@ No windows:
 ```
 .\Debug\bcr.exe data/cities.txt
 ```
+
+Supondo que os arquivos com os dados estão em uma pasta `data` (que não deve ser _comidata_!!!).
