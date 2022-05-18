@@ -58,4 +58,4 @@ No windows:
 .\Debug\bcr.exe data/cities.txt
 ```
 
-Supondo que os arquivos com os dados estão em uma pasta `data` (que não deve ser _comidata_!!!).
+Supondo que os arquivos com os dados estão em uma pasta `data` (que não deve ser _comitada_!!!).
